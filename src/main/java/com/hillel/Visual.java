@@ -3,25 +3,25 @@ import java.util.Scanner;
 
 
 public class Visual {
-    private static String zero = "" +
+    private static String q = "" +
               " 1111 "+
             "\n1    1"+
             "\n1    1"+
             "\n 1111 "+
             "\n    11";
-    private static String one = "" +
+    private static String rock = "" +
               "      "+
             "\n 1111 "+
             "\n11  11"+
             "\n1   11"+
             "\n 11111";
-    private static String two = "" +
+    private static String scissors = "" +
               "1   1 "+
             "\n 1 1  "+
             "\n  1   "+
             "\n11  11"+
             "\n11  11";
-    private static String three = "" +
+    private static String paper = "" +
               "111111"+
             "\n111111"+
             "\n111111"+
